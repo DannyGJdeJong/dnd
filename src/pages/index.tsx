@@ -10,11 +10,12 @@ const spell_names : string[] = [
   'mage-hand',
   'cure-wounds',
   'detect-magic',
-  'hideous-laughter',
+  'tiny-hut',
   'identify',
   'thunderwave',
   'heat-metal',
-  'healing-word'
+  'healing-word',
+  'shatter'
 ];
 
 const SpellBook = styled.div`
